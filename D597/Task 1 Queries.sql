@@ -4,7 +4,7 @@
 	--primary indexes (primary key Order_ID)
 	--single column index (Country, Item Type, and Region)
 --Requirement 3. Demonstrate the functionality of the queries in the lab environment.
---Requirement 4 will be discussed after the queries)
+--Requirement 4 will be discussed after the queries
 
 CREATE TABLE Sales_Records (
 	Region VARCHAR(50),
