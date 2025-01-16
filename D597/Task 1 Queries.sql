@@ -1,9 +1,9 @@
---Requirement 1. Discuss how database design and indexing strategy optimize performance--
---Requirement 2.  Describe the technical environment used in your database implementation --
+--Requirement 1. Discuss how database design and indexing strategy optimize performance
+--Requirement 2.  Describe the technical environment used in your database implementation
 	--Normalization 1N to 3N (ensure every column is dependent on primary key, eliminate transitive dependencies)
 	--primary indexes (primary key Order_ID)
 	--single column index (Country, Item Type, and Region)
---Requirement 3. Demonstrate the functionality of the queries in the lab environment.
+--Requirement 3. Demonstrate the functionality of the queries in the lab environment
 --Requirement 4 will be discussed after the queries
 
 CREATE TABLE Sales_Records (
